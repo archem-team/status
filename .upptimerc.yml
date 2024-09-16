@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://peptide.chat/assets/logo_round.png
   name: PepChat Status
   introTitle: "Status of PepChat services."
-  introMessage: Status details many not always be accurate.
+  introMessage: Status details may not always be accurate. ::CLOUDFLARE_ERROR_500S_BOX::
   navbar:
     - title: Status
       href: /
