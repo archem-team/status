@@ -13,8 +13,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://peptide.chat/assets/logo_round.png
   name: PepChat Status
-  introTitle: "Status of PepChat services."
-  introMessage: Status details may not always be accurate. ::CLOUDFLARE_ERROR_500S_BOX::
+  introTitle: "Status of PepChat services. ::CLOUDFLARE_ERROR_500S_BOX::"
+  introMessage: Status details may not always be accurate.
   navbar:
     - title: Status
       href: /
