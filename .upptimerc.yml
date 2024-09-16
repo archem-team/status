@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.peptide.chat
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://peptide.chat/assets/logo_round.png
   name: PepChat Status
   introTitle: "Status of PepChat services."
   introMessage: Status details many not always be accurate.
